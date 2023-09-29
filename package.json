@@ -10,12 +10,13 @@
 		"astro": "astro"
 	},
 	"dependencies": {
+		"@astrojs/netlify": "^3.0.2",
 		"@astrojs/react": "2.1.1",
 		"@astrojs/rss": "^3.0.0",
 		"@astrojs/solid-js": "^2.1.0",
 		"@nanostores/react": "^0.7.1",
 		"@nanostores/solid": "^0.4.2",
-		"astro": "^2.5.5",
+		"astro": "^3.2.0",
 		"markdown-it": "^13.0.2",
 		"nanostores": "^0.9.3",
 		"react": "^18.2.0",
